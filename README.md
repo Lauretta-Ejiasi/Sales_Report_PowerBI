@@ -22,4 +22,4 @@ And the below Key Performance Indicators were generated.
 
 The insights obtained can be used by various stakeholders within a company, including sales managers, marketing teams, executives, and more. Sales managers can use the insights to identify areas for improvement within their teams, while marketing teams can use the insights to develop targeted campaigns to drive sales. Executives can also use these insights to make informed decisions related to sales strategies and overall business operations. 
 
-Ultimately, the goal of a Sales report/dashboard is to provide actionable insights that can help drive sales growth and improve overall business performance.
+Ultimately, the goal of this Sales report/dashboard is to provide actionable insights that can help drive sales growth and improve overall business performance.
